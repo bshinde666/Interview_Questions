@@ -1,7 +1,7 @@
 **Data Scientist / Machine Learning Interview Questions**
 -
 
-Hey All, I've documented the questions asked in multiple interviews I attended in my job search journey 2025. Attending multiple interviews gave me insights about the pattern of questions we can expect for 3–5 years of Data Science / ML experience. You may see multiple frequent questions here.
+Hey All, I've documented the questions asked in multiple interviews I attended in my job search journey. Attending multiple interviews gave me insights about the pattern of questions we can expect for 3–5 years of Data Science / ML experience. You may see multiple frequent questions here.
 
 You must have exposure to below concepts and tools:
 -

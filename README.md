@@ -5,11 +5,11 @@ Hey All, I've documented the questions asked in multiple interviews I attended i
 
 You must have exposure to below concepts and tools:
 -
-Mandatory: Python, SQL, Statistics & Probability, ML algorithms (supervised + unsupervised), Model evaluation & validation, Feature engineering
-Domain: Time series & demand forecasting, Regression, Classification, Clustering
-Big Data / Cloud stack: Any like Spark / Databricks / Snowflake / BigQuery / GCP / AWS / Azure
-Monitoring & MLOps: Any from MLflow, Airflow, model drift monitoring, batch inference pipelines
-Optional: Deep learning / NLP / LLMs, dbt, Docker for ML, GitLab CI/CD for model deployment
+- Mandatory: Python, SQL, Statistics & Probability, ML algorithms (supervised + unsupervised), Model evaluation & validation, Feature engineering
+- Domain: Time series & demand forecasting, Regression, Classification, Clustering
+- Big Data / Cloud stack: Any like Spark / Databricks / Snowflake / BigQuery / GCP / AWS / Azure
+- Monitoring & MLOps: Any from MLflow, Airflow, model drift monitoring, batch inference pipelines
+- Optional: Deep learning / NLP / LLMs, dbt, Docker for ML, GitLab CI/CD for model deployment
 
 Notes:
 -
